@@ -1,0 +1,11 @@
+C:\Users\ubenz\source\repos\alumette\alumette\bin\Debug\netcoreapp3.0\alumette.exe
+C:\Users\ubenz\source\repos\alumette\alumette\bin\Debug\netcoreapp3.0\alumette.deps.json
+C:\Users\ubenz\source\repos\alumette\alumette\bin\Debug\netcoreapp3.0\alumette.runtimeconfig.json
+C:\Users\ubenz\source\repos\alumette\alumette\bin\Debug\netcoreapp3.0\alumette.runtimeconfig.dev.json
+C:\Users\ubenz\source\repos\alumette\alumette\bin\Debug\netcoreapp3.0\alumette.dll
+C:\Users\ubenz\source\repos\alumette\alumette\bin\Debug\netcoreapp3.0\alumette.pdb
+C:\Users\ubenz\source\repos\alumette\alumette\obj\Debug\netcoreapp3.0\alumette.csprojAssemblyReference.cache
+C:\Users\ubenz\source\repos\alumette\alumette\obj\Debug\netcoreapp3.0\alumette.AssemblyInfoInputs.cache
+C:\Users\ubenz\source\repos\alumette\alumette\obj\Debug\netcoreapp3.0\alumette.AssemblyInfo.cs
+C:\Users\ubenz\source\repos\alumette\alumette\obj\Debug\netcoreapp3.0\alumette.dll
+C:\Users\ubenz\source\repos\alumette\alumette\obj\Debug\netcoreapp3.0\alumette.pdb
